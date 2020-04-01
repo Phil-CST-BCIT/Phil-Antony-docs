@@ -26,4 +26,7 @@ This is the page you are at
 ![Folder](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/folder.png?raw=true "Folder")
 4. Tick on "Add Python 3.8 to PATH" 
 5. Click "Install now"  
-![Install](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install.png?raw=true "Install")
+![Install](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install.png?raw=true "Install")  
+Now we are waiting for it to download  
+![Progress](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/set-up-progress.png?raw=true "Progress")  
+
