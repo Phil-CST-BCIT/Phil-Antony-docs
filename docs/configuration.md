@@ -5,16 +5,16 @@ nav_order: 2
 ---
 
 # Instructions
-To automate some Excel operations via Python, this guide is consisted of 3 tasks:
-* Installing Python
+To use Python to work with Excel, this guide is consisted of 3 tasks:
+* Installing Python 3.8.2 and Pycharm
 * Task 2
 * Task 3
 
 
 
 
-## Task 1 - Installing Python  
-Python will be doing most our work. We are going to 
+## Task 1 - Installing Python 3.8.2 and Pycharm
+Python will be doing most our work. We are going to download Python 3.8.2 and Pycharm.
 
 ### Task 1.1 - Downloading Python
 1. Go to Python download page: [Python](https://www.python.org/downloads/).  
