@@ -40,3 +40,5 @@ When it finishes, we should encounter this
 3. Click "Download" in "Professional" column.  
 We will wait for it to download.
 ![Wait](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/pycharmwait.png?raw=true "Wait")
+4. When it finishes, click "Next >"  
+![Next](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/next.png?raw=true "Next")
