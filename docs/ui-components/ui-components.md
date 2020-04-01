@@ -19,4 +19,7 @@ You will be directed to Pycharm.
 4) Click "Close".
 5) Right-click "WorkWithExcel" folder, click "New", then click "Python file".  
 ![Click](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/some-click.png?raw=true "Click")  
+6) Name the file "WorkWithExcel.py", then click enter.  
+![Naming](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/naming.png?raw=true "Naming")  
+
 
