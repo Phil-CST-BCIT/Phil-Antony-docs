@@ -34,5 +34,7 @@ When it finishes, we should encounter this
 6. Click "Close".
 
 ### Task 1.2 - Downloading Pycharm
-1. Go to Pycharm download page: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+1. Go to Pycharm download page: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows).
 ![Download Pycharm](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/download-pycharm.png?raw=true "Download Pycharm")
+2. Choose your Operating System (Windows/Mac/Linux).
+3. Click "Download" in "Professional" column.
