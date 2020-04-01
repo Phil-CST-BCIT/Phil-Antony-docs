@@ -21,5 +21,8 @@ You will be directed to Pycharm.
 ![Click](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/some-click.png?raw=true "Click")  
 6) Name the file "WorkWithExcel.py", then click enter.  
 ![Naming](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/naming.png?raw=true "Naming")  
+7) Click "Add".  
+![Git](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/add-to-git.png?raw=true "Git")  
+Now you are ready to write the code.
 
 
