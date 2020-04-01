@@ -24,4 +24,6 @@ This is the page you are at
 ![Button](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/download-button%20.png?raw=true "Download Button")
 3. Click on just downloaded folder "python-3.8.2.exe" at the bottom left corner of the screen 
 ![Folder](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/folder.png?raw=true "Folder")
-
+4. Tick on "Add Python 3.8 to PATH" 
+5. Click "Install now"  
+![Install](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install.png?raw=true "Install")
