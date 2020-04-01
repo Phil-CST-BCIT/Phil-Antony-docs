@@ -31,4 +31,4 @@ Now we are waiting for it to download
 ![Progress](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/set-up-progress.png?raw=true "Progress")  
 When it finishes, we should encounter this
 ![Done](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/done.png?raw=true "Done")  
-
+6. Click "Close".
