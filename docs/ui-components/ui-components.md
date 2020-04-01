@@ -17,5 +17,6 @@ We will be using Pycharm to write a short python code to work with Excel.
 You will be directed to Pycharm.  
 ![Directed](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/direct.png?raw=true "Directed")  
 4) Click "Close".
-
+5) Right-click "WorkWithExcel" folder, click "New", then click "Python file".  
+![Click](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/some-click.png?raw=true "Click")  
 
