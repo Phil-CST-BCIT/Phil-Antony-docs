@@ -42,3 +42,9 @@ We will wait for it to download.
 ![Wait](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/pycharmwait.png?raw=true "Wait")
 4. When it finishes, click "Next >"  
 ![Next](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/next.png?raw=true "Next")
+5. Browse the location you want to put this folder then click "Next >".
+![Browse](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/browse-location.png?raw=true "Browse")
+6. Tick all the boxes in "Installation Options" then click "Next >".  
+![Option](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/installation-option.png?raw=true "Option")
+7. Click "Install"  
+![Install](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install-it.png?raw=true "Install")
