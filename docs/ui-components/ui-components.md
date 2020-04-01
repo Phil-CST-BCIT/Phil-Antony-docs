@@ -1,12 +1,15 @@
 ---
 layout: default
-title: UI Components
+title: Task 2
 nav_order: 3
 has_children: true
 permalink: /docs/ui-components
 ---
 
-# UI Components
+## Task 2 - Opening Pycharm and Setting up Python Code  
+We will be using Pycharm to write a short python code to work with Excel.
+### Task 2.1 - Opening Pycharm 
+1) Open Pycharm  
+![Open](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/open-pycharm.png?raw=true "Open")
+2) Click "Create New Project"
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
-{: .fs-6 .fw-300 }
