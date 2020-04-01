@@ -12,7 +12,10 @@ We will be using Pycharm to write a short python code to work with Excel.
 1) Open Pycharm  
 ![Open](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/open-pycharm.png?raw=true "Open")
 2) Click "Create New Project"
-3) Select "Pure Python" in the outer-left column, browse the location to put this file, and name this file "WorkWithExcel".  
-![Browse](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/browse-and-name.png?raw=true "Browse")
+3) Select "Pure Python" in the outer-left column, browse the location to put this file, and name this file "WorkWithExcel", then click "Create".  
+![Browse](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/browse-and-name.png?raw=true "Browse")  
+You will be directed to Pycharm.  
+![Directed](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/direct.png?raw=true "Directed")  
+4) Click "Close".
 
 
