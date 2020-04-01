@@ -32,3 +32,7 @@ Now we are waiting for it to download
 When it finishes, we should encounter this
 ![Done](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/done.png?raw=true "Done")  
 6. Click "Close".
+
+### Task 1.2 - Downloading Pycharm
+1. Go to Pycharm download page: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+![Download Pycharm](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/download-pycharm.png?raw=true "Download Pycharm")
