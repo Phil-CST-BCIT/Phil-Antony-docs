@@ -46,5 +46,6 @@ We will wait for it to download.
 ![Browse](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/browse-location.png?raw=true "Browse")
 6. Tick all the boxes in "Installation Options" then click "Next >".  
 ![Option](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/installation-option.png?raw=true "Option")
-7. Click "Install"  
+7. Click "Install".
 ![Install](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install-it.png?raw=true "Install")
+8. Click "Finish".
