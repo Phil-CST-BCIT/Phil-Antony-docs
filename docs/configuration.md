@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Task_1
+title: Task 1
 nav_order: 2
 ---
 
-# Configuration
-{: .no_toc }
+# Instructions
+To automate some Excel operations via Python, this guide is consisted of 3 tasks:
+* Installing Python
+* Task 2
+* Task 3
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
-{: .fs-6 .fw-300 }
+
 
 ## Table of contents
 {: .no_toc .text-delta }
