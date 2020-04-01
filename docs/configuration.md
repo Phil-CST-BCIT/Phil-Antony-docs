@@ -22,4 +22,4 @@ This is the page you are at
 ![Download Python](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/python-download-page.png?raw=true "Download page")
 2. Click "Download Python 3.8.2
 
-![Button](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/download-button%20.png?raw=true "Download Button")
+              ![Button](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/download-button%20.png?raw=true "Download Button")
