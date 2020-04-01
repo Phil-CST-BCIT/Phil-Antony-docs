@@ -29,4 +29,6 @@ This is the page you are at
 ![Install](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install.png?raw=true "Install")  
 Now we are waiting for it to download  
 ![Progress](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/set-up-progress.png?raw=true "Progress")  
+When it finishes, we should encounter this
+![Done](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/done.png?raw=true "Done")  
 
