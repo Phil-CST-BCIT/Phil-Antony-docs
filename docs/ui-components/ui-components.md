@@ -23,6 +23,7 @@ You will be directed to Pycharm.
 ![Naming](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/naming.png?raw=true "Naming")  
 7) Click "Add".  
 ![Git](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/add-to-git.png?raw=true "Git")  
-Now you are ready to write the code.
+Now you are ready to write the code.  
+![Blank](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/blank.png?raw=true "Blank")  
 
 
