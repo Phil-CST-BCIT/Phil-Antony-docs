@@ -21,7 +21,7 @@ Python will be doing most our work. We are going to download Python 3.8.2 and Py
 
 This is the page you are at
 
-<img src="./assets/images/python-download-page.png" alt="python-download-page" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/python-download-page.png" alt="python-download-page" width="100%" height="100%">
 
 2. Click "Download Python 3.8.2
 <img src="./assets/images/download-button%20.png" alt="Download Button" width=auto height=auto>

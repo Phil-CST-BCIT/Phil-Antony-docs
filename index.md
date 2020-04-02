@@ -15,12 +15,12 @@ This instruction will help an office worker to use Python to automate some repea
 <hr>
 
 #### Table of Contents
-- Scenario Example
-- Basic Data Types
-- OS & Software List
-- Time Estimate
-- Steps
-- Conclusion
+- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#scenario-example">Scenario Example</a>
+- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#basic-data-types">Basic Data Types</a>
+- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#os--software-lists">OS & Software List</a>
+- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#time-estimate">Time Estimate</a>
+- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#steps">Steps</a>
+- <a href="">Conclusion</a>
 
 ### Scenario Example
 
@@ -41,7 +41,9 @@ You can't add a number with a string.
 ### OS & Software Lists
 
 Windows
+
 Excel 2016.35
+
 Python 3.7
 
 
