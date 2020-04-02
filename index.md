@@ -12,9 +12,7 @@ permalink: /
 #### Date: April 1, 2020
 
 Let's imagine you work as an office clerk at Walmart's whole sales department. Your company is responsible to distribute a hundred thousand items from warehouses to all stores across North America. Your company needs some data to know the sales trend for each item. One of your daily tasks is to write a summary to your boss. However, the Excel sheet you received from coworkers has one hundred thousand rows, and each row has twenty columns. Your boss told you only a few columns are needed in the report. The following table shows the difficulty level of the repeated task.
-<div class="imageContainer">
-    <img src="./assets/images/sample_table.png" alt="sample_table" width = "800px" height="300px">
-</div>
+<a href="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/sample_table.png"><img src="./assets/images/sample_table.png" alt="sample_table" width = "100%" height="100%"></a>
 Instructions about how to use Python to automate some Excel operation...
 {: .fs-6 .fw-300 }
 
