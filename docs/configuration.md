@@ -22,7 +22,7 @@ This is the page you are at
 
 2. Click "Download Python 3.8.2
 
-<img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/download-button%20.png" alt="Download Button" width="130%" height="130%">
+<img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/download-button.png" alt="Download Button" width="130%" height="130%">
 
 3. Click on just downloaded folder "python-3.8.2.exe" at the bottom left corner of the screen
 
