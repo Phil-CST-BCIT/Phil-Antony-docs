@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Task 3
 nav_order: 5
 ---
 

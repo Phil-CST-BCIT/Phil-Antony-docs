@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Install Python and PyCharm
+title: Installation
 nav_order: 2
 ---
 
