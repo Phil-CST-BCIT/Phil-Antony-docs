@@ -14,6 +14,14 @@ Microsoft Excel is everywhere in office work. The repeated work on worksheets is
 This instruction will help an office worker to use Python to automate some repeated office work and boost work productivity. This instruction requires basic programming knowledge to understand all steps
 <hr>
 
+#### Table of Contents
+- Scenario Example
+- Basic Data Types
+- OS & Software List
+- Time Estimate
+- Steps
+- Conclusion
+
 ### Scenario Example
 
 Let's imagine you work as an office clerk at Walmart's whole sales department. Your company is responsible to distribute a hundred thousand items from warehouses to all stores across North America. Your company needs some data to know the sales trend for each item.
@@ -21,6 +29,34 @@ Let's imagine you work as an office clerk at Walmart's whole sales department. Y
 One of your daily tasks is to write a summary to your boss. However, the Excel sheet you received from coworkers has one hundred thousand rows, and each row has twenty columns. Your boss told you only a few columns are needed in the report. The following table(Click to see in a new tab) shows the difficulty level of the repeated task.
 <hr>
 <a href="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/sample_table.png" target="_blank"><img src="./assets/images/sample_table.png" alt="sample_table" width = "100%" height="100%"></a>
+
+Let's suppose you are going to select columns *OrderDate*, *Region*, *Item*, *Units*, *UnitCosts*, and *Total* from the original sheet. You will need to make new Excel files sorted by the *Region* column.
+
+### Basic Data Types
+
+Excel works with data, and the data could be numbers such as 1, 2, 3, or a word like hello. The numbers 1, 2, 3 in programming are named integers. They refer to Data Type int. The word "hello" refers to Data Type String.
+You can't add a number with a string.
+
+
+### OS & Software Lists
+
+Windows
+Excel 2016.35
+Python 3.7
+
+
+### Time Estimate
+
+It might takes two hours for people with little programming language to fully understand the whole process.
+
+### Steps
+1. Installation
+2. Software Configuration
+3. task3
+4. task4
+5. aabbcc
+6. aabbcc
+
 
 
 
