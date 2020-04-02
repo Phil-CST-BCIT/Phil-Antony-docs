@@ -19,7 +19,7 @@ Python will be doing most our work. We are going to download Python 3.8.2 and Py
 ### Task 1.1 - Downloading Python
 1. Go to Python download page: [Python](https://www.python.org/downloads/).
 This is the page you are at
-<img src="./assets/images/python-download-page.png" alt="python-download-page" width=auto height=auto>
+<img src="./assets/images/python-download-page.png" alt="python-download-page" width="auto" height="auto">
 
 2. Click "Download Python 3.8.2
 <img src="./assets/images/download-button%20.png" alt="Download Button" width=auto height=auto>

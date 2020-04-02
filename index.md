@@ -13,8 +13,9 @@ Microsoft Excel is everywhere in office work. The repeated work on worksheets is
 
 This instruction will help an office worker to use Python to automate some repeated office work and boost work productivity. This instruction requires basic programming knowledge to understand all steps
 <hr>
+Let's imagine you work as an office clerk at Walmart's whole sales department. Your company is responsible to distribute a hundred thousand items from warehouses to all stores across North America. Your company needs some data to know the sales trend for each item.
 
-Let's imagine you work as an office clerk at Walmart's whole sales department. Your company is responsible to distribute a hundred thousand items from warehouses to all stores across North America. Your company needs some data to know the sales trend for each item. One of your daily tasks is to write a summary to your boss. However, the Excel sheet you received from coworkers has one hundred thousand rows, and each row has twenty columns. Your boss told you only a few columns are needed in the report. The following table(Click to see in a new tab) shows the difficulty level of the repeated task.
+One of your daily tasks is to write a summary to your boss. However, the Excel sheet you received from coworkers has one hundred thousand rows, and each row has twenty columns. Your boss told you only a few columns are needed in the report. The following table(Click to see in a new tab) shows the difficulty level of the repeated task.
 <hr>
 <a href="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/sample_table.png" target="_blank"><img src="./assets/images/sample_table.png" alt="sample_table" width = "100%" height="100%"></a>
 
