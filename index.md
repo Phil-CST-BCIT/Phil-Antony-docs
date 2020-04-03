@@ -11,7 +11,7 @@ permalink: /
 <hr>
 Microsoft Excel is everywhere in office work. The repeated work on worksheets is pretty tedious.
 
-This instruction will help an office worker to use Python to automate some repeated office work and boost work productivity. This instruction requires basic programming knowledge to understand all steps
+This instruction will help an office worker to use Python to automate some repeated office work and boost work productivity. This instruction requires basic programming knowledge to understand every step.
 <hr>
 
 #### Table of Contents
@@ -20,7 +20,7 @@ This instruction will help an office worker to use Python to automate some repea
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#os--software-lists">OS & Software List</a>
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#time-estimate">Time Estimate</a>
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#steps">Steps</a>
-- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#Typographical-Conventions">Typographical Conventions</a>
+- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#typographical-conventions">Typographical Conventions</a>
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#conclusion">Conclusion</a>
 <hr>
 
@@ -48,33 +48,48 @@ Windows
 Excel 2016.35
 
 Python 3.7
+
+pip: a software for installing some helper libraries for your python program.
+
+pandas: first helper library
+
+xlrd: second helper library
+
+openpyxl: thrid helper library
 <hr>
 
 ### Time Estimate
 
-It might takes two hours for people with little programming language to fully understand the whole process.
+It might takes two hours for people with little programming experiences to fully understand the whole process.
 <hr>
 
 ### Steps
-1. Installation
-2. Software Configuration
-3. task3
-4. task4
-5. aabbcc
-6. aabbcc
+1. [Install Python and Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/configuration/)
+2. [Configure Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/ui-components)
+3. [Download Libraries]()
+4. [Write Code]()
+5. [Run Code]()
+6. [Fix Possible Bugs]()
 <hr>
 
 ### Typographical Conventions
 
-| Tables        | Are           | Cool  |
+| Convention        | Typeface           | Example  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Terminal commands      | `abc` | `python` |
+| Key terms      | **_italic_**      |   **_String_** |
+| Python Code | ```python s = 1```      |    ```python print s``` |
+| Excel Cells | *Value*                  | *Costs*  |
 
 <hr>
 
+
+![](./assets/images/note.png) **Note** the note icon indicates that the following line is important.
+
 ### Conclusion
+
+The powerful Python libraries enable the programming language to become the most suitable tool for simple office work automation. Once you grasp the basic idea of programming in Python, you will notice how amazing to let your computer working for you.
+
 
 ---
 
