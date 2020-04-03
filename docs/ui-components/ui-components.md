@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setup
+title: Configure Pycharm
 nav_order: 3
 has_children: true
 permalink: /docs/ui-components

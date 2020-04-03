@@ -76,15 +76,14 @@ It might takes two hours for people with little programming experiences to fully
 
 | Convention        | Typeface           | Example  |
 | ------------- |:-------------:| -----:|
-| Terminal commands      | `abc` | `python` |
-| Key terms      | **_italic_**      |   **_String_** |
-| Python Code | ```python s = 1```      |    ```python print s``` |
+| Terminal commands      | `abc` | `cd` |
+| Key terms      | **_italic_**      |   **_data type_** |
 | Excel Cells | *Value*                  | *Costs*  |
 
 <hr>
 
-
-![](./assets/images/note.png) **Note** the note icon indicates that the following line is important.
+**Note** the note icon indicates that the following line is important.
+![](./assets/images/note.png)
 
 ### Conclusion
 
