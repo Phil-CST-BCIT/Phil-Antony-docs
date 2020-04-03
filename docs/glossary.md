@@ -1,6 +1,5 @@
 ---
 layout: default
 title: Glossary
-nav_order: 98
-nav_exclude: true
+nav_order: 8
 ---

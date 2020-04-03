@@ -2,6 +2,7 @@
 layout: default
 title: Download Libraries
 nav_order: 5
+nav_exclude: true
 ---
 
 # Navigation Structure

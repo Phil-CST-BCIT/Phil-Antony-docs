@@ -1,8 +1,7 @@
 ---
 layout: default
-title: 404
+title: Install Python and Pycharm
 nav_order: 2
-nav_exclude: true
 ---
 
 # Instructions

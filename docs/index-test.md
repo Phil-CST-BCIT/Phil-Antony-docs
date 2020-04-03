@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Troubleshooting
-nav_order: 10
+nav_order: 99
+nav_exclude: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
