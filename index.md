@@ -43,19 +43,19 @@ You can't add a number with a string.
 
 ### OS & Software
 
-Windows
+- Windows
 
-Excel 2016.35
+- Excel 2016.35
 
-Python 3.7
+- Python 3.7
 
-pip: a software for installing some helper libraries for your python program.
+- pip: a software for installing some helper libraries for your python program.
 
-pandas: first helper library
+- pandas: first helper library
 
-xlrd: second helper library
+- xlrd: second helper library
 
-openpyxl: thrid helper library
+- openpyxl: thrid helper library
 <hr>
 
 ### Time Estimate
