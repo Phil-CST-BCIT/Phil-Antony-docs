@@ -16,11 +16,11 @@ We need to download three libraries for our project, and they are
 - [openpyxl](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/glossary/)
 <hr>
 
-First of all, check if you have installed **_Python 3_**
+First of all, check if you have **_Python 3_** installed on your computer
 
 ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/note.png?raw=true "note")
 
-1. Open a terminal
+- Open Terminal
    1. Click launchpad
 
    2. Click Other
@@ -31,32 +31,40 @@ First of all, check if you have installed **_Python 3_**
 
 <hr>
 
-2. Change directory to your working directory<br/>
+1. Change directory to your working directory<br/>
+
 `cd /absolute_path_to/your_working_directory/`
 
-3. Type the following command in your terminal<br/>
+2. Type the following command in your terminal<br/>
+
 `which python3`
 
-   * If you have the following line, it means you have **_Python 3_** on your computer.<br/>
+   * If the computer tells you the following, then you have **_Python 3_** installed on your computer.<br/>
+
    `/usr/local/bin/python3`
 
    * If it tells you<br/>
+
    `Python3 not found:`<br/>
+
     It means you don't have **_Python 3_** installed on your computer.<br/>
-   Click [here](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/) to step 1 to install **_Python 3_**.
+   Click [here](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/) to step 1 for how to install **_Python 3_**.
 
-4. We'll use a program **_PIP3_** to install libraries.
+3. We'll use a program **_PIP3_** to install libraries.
 
-5. Install Pandas. Type in the following command in terminal<br/>
-`pip3 install pandas`
+4. Install Pandas. Type in the following command in terminal<br/>
+
+`pip3 install pandas`<br/>
+
 ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
 
-   - When you see the message above in the terminal, you have Pandas installed.There is chance the installation might fail, please check [Troubleshooting](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/troubleshooting/) for solutions.
+   - When you see the message above in the terminal, you have Pandas installed.
+   - There is chance the installation might fail, please check [Troubleshooting](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/troubleshooting/) for solutions.
 
-6. Install xlrd.<br/>
+5. Install xlrd.<br/>
+
 `pip3 install xlrd`
 
-7. Install openpyxl<br/>
-`pip3 install openpyxl`
+6. Install openpyxl<br/>
 
-The prompt messages in the terminal after success installation are similar to the one in Pandas.
+`pip3 install openpyxl`
