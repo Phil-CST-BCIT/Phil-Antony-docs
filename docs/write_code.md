@@ -35,3 +35,4 @@ All you need to do is writing the code we have prepared for you.
 
 2) Write the following code
 ![writing](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/write-python-code.png?raw=true "writing")
+
