@@ -32,46 +32,46 @@ First of all, we need to use a tool called **_Terminal_**
 
 Now, let's check if you have installed **_Python3_** on you computer<br/>
 
-1. Change directory to your working directory<br/>
+   1. Change directory to your **_working directory_**<br/>
 
-`cd /absolute_path_to/your_working_directory/`
+   `cd /absolute_path_to/your_working_directory/`
 
-2. Type the following command in your terminal<br/>
+   2. Type the following command in your terminal<br/>
 
-`which python3`
+   `which python3`
 
-   * If the computer tells you the following, then you have **_Python 3_** installed on your computer.<br/>
+      * If the computer tells you the following, then you have **_Python 3_** installed on your computer.<br/>
 
-   `/usr/local/bin/python3`
+      `/usr/local/bin/python3`
 
-   * If it tells you<br/>
+      * If it tells you<br/>
 
-   `Python3 not found:`<br/>
+      `Python3 not found:`<br/>
 
-    It means you don't have **_Python 3_** installed on your computer.<br/>
-   Click [here](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/) to step 1 for how to install **_Python 3_**.
+      It means you don't have **_Python 3_** installed on your computer.<br/>
+      Go to [Step 1](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/) to install **_Python 3_**.
 <hr>
 
 And then, we can start to download the libraries.<br/>
 
-1. We'll use a program **_PIP3_** to install libraries.
+   1. We'll use a program **_PIP3_** to install libraries.
 
-2. Install Pandas. Type in the following command in terminal<br/>
+   2. Install **_Pandas_**. Type in the following command in terminal<br/>
 
-`pip3 install pandas`<br/>
+   `pip3 install pandas`<br/>
 
 ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
 
    - When you see the message above in the terminal, you have Pandas installed.
    - There is chance the installation might fail, please check [Troubleshooting](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/troubleshooting/) for solutions.
 
-3. Install xlrd.<br/>
+   3. Install **_xlrd_**.<br/>
 
-`pip3 install xlrd`
+   `pip3 install xlrd`
 
-4. Install openpyxl<br/>
+   4. Install **_openpyxl_**<br/>
 
-`pip3 install openpyxl`
+   `pip3 install openpyxl`
 
 
 Next, let's write our first Python code. [Jump to Write Code](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/write_code/)

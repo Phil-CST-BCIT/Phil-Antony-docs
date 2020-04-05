@@ -21,3 +21,5 @@ nav_order: 8
 **String**: A sequence of characters. A String can be all digits such as "123", but it is not a "number".
 
 **Terminal**:
+
+**Working Directory**:
