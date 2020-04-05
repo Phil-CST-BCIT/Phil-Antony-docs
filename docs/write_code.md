@@ -28,4 +28,8 @@ output: `hello world`.
 
 Now, we are good to go!
 
-1. Go to the directory where you want to keep your file.
+1. Go to your **_working directory_**.
+
+2. Create a new file, give it a descriptive name for your task
+
+3.

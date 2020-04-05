@@ -17,7 +17,7 @@ This instruction will help an office worker to use Python to automate some repea
 #### Table of Contents
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#scenario-example">Scenario Example</a>
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#basic-data-types">Basic Data Types</a>
-- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#os--software-lists">OS & Software List</a>
+- <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#os--software">OS & Software List</a>
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#time-estimate">Time Estimate</a>
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#steps">Steps</a>
 - <a href="https://phil-cst-bcit.github.io/Phil-Antony-docs/#typographical-conventions">Typographical Conventions</a>
@@ -89,6 +89,7 @@ It might takes two hours for people with little programming experiences to fully
 
 The powerful Python libraries enable the programming language to become the most suitable tool for simple office work automation. Once you grasp the basic idea of programming in Python, you will notice how amazing to let your computer working for you.
 
+[Install Python and Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install)
 
 ---
 
