@@ -83,7 +83,7 @@ It might takes two hours for people with little programming experiences to fully
 <hr>
 
 **Note** the note icon indicates that the following line is important.
-![](./assets/images/note.png)
+![](./assets/images/note.png "note")
 
 ### Conclusion
 
