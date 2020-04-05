@@ -6,6 +6,8 @@ nav_order: 8
 # Glossary
 <hr>
 
+**__Data frame__**:
+
 **_Openpyxl_**: A software reading and writing your Excel documents.
 
 **_Python3_**: Latest version of Python.
@@ -20,6 +22,6 @@ nav_order: 8
 
 **String**: A sequence of characters. A String can be all digits such as "123", but it is not a "number".
 
-**Terminal**: A tool performing computer tasks within a single tab(by coding). 
+**Terminal**: A tool performing computer tasks within a single tab(by coding).
 
 **Working Directory**: The directory where you wish to perform tasks.

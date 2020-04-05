@@ -30,7 +30,7 @@ output: `hello world`.
 Now, we are good to go!
 <hr>
 
-##
+## Get the columns you want and generate a new file.
 All you need to do is writing the code we have prepared for you.
 
 1. Go to your **_working directory_**.
@@ -81,3 +81,21 @@ All you need to do is writing the code we have prepared for you.
     ```
 
     ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/file_created.png?raw=true)
+
+The entire code
+
+    ```python
+    import pandas as pd
+
+    df = pd.read_excel('test.xlsx')
+    df['new_c1'] = df['Units']
+    df['new_c2'] = df['UnitCost']
+    df['new_c3'] = df['Total']
+    writer = pd.ExcelWriter('new_table.xlsx')
+    df.to_excel(writer, 'new_sheet')
+    print(df.head())
+    writer.save()
+    ```
+
+Now you have the new table, you can just hide all the unneccssary columns and send your boss the new file.
+Job done!
