@@ -5,11 +5,11 @@ nav_order: 3
 has_children: false
 ---
 
-## Task 2 - Opening Pycharm 
+# Opening Pycharm
 
 We will be using Pycharm to write a short python code to work with Excel.
 
-### Task 2.1 - Opening Pycharm
+## Opening Pycharm
 
 1) Open Pycharm
 
