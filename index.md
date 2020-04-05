@@ -64,12 +64,11 @@ It might takes two hours for people with little programming experiences to fully
 <hr>
 
 ### Steps
-1. [Install Python and Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/configuration/)
-2. [Configure Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/ui-components)
+1. [Install Python and Pycharm]()
+2. [Configure Pycharm]()
 3. [Download Libraries]()
 4. [Write Code]()
 5. [Run Code]()
-6. [Fix Possible Bugs]()
 <hr>
 
 ### Typographical Conventions
