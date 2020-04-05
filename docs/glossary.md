@@ -19,3 +19,5 @@ nav_order: 8
 **Numeric Type**: Numbers, such as 10, 12.1, -2.
 
 **String**: A sequence of characters. A String can be all digits such as "123", but it is not a "number".
+
+**Terminal**:

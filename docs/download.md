@@ -16,7 +16,7 @@ We need to download three libraries for our project, and they are
 - [openpyxl](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/glossary/)
 <hr>
 
-First of all, check if you have **_Python 3_** installed on your computer
+First of all, we need to use a tool called **_Terminal_**
 
 ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/note.png?raw=true "note")
 
@@ -28,8 +28,9 @@ First of all, check if you have **_Python 3_** installed on your computer
 
    3. Click Terminal
    ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/terminal.png?raw=true "launchpad")
-
 <hr>
+
+Now, let's check if you have installed **_Python3_** on you computer<br/>
 
 1. Change directory to your working directory<br/>
 
@@ -49,10 +50,13 @@ First of all, check if you have **_Python 3_** installed on your computer
 
     It means you don't have **_Python 3_** installed on your computer.<br/>
    Click [here](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/) to step 1 for how to install **_Python 3_**.
+<hr>
 
-3. We'll use a program **_PIP3_** to install libraries.
+And then, we can start to download the libraries.<br/>
 
-4. Install Pandas. Type in the following command in terminal<br/>
+1. We'll use a program **_PIP3_** to install libraries.
+
+2. Install Pandas. Type in the following command in terminal<br/>
 
 `pip3 install pandas`<br/>
 
@@ -61,10 +65,13 @@ First of all, check if you have **_Python 3_** installed on your computer
    - When you see the message above in the terminal, you have Pandas installed.
    - There is chance the installation might fail, please check [Troubleshooting](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/troubleshooting/) for solutions.
 
-5. Install xlrd.<br/>
+3. Install xlrd.<br/>
 
 `pip3 install xlrd`
 
-6. Install openpyxl<br/>
+4. Install openpyxl<br/>
 
 `pip3 install openpyxl`
+
+
+Next, let's write our first Python code. [Jump to Write Code](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/write_code/)
