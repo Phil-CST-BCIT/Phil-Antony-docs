@@ -9,8 +9,6 @@ has_children: false
 
 We will be using Pycharm to write a short python code to work with Excel.
 
-## Opening Pycharm
-
 1) Open Pycharm
 
 ![Open](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/open-pycharm.png?raw=true "Open")
