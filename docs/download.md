@@ -34,22 +34,22 @@ Now, let's check if you have installed **_Python3_** on you computer<br/>
 
 1. Change directory to your **_working directory_**<br/>
 
-   `cd /absolute_path_to/your_working_directory/`
+`cd /absolute_path_to/your_working_directory/`
 
 2. Type the following command in your terminal<br/>
 
-   `which python3`
+`which python3`
 
-      * If the computer tells you the following, then you have **_Python 3_** installed on your computer.<br/>
+   * If the computer tells you the following, then you have **_Python 3_** installed on your computer.<br/>
 
-      `/usr/local/bin/python3`
+   `/usr/local/bin/python3`
 
-      * If it tells you<br/>
+   * If it tells you<br/>
 
-      `Python3 not found:`<br/>
+   `Python3 not found:`<br/>
 
-      It means you don't have **_Python 3_** installed on your computer.<br/>
-      Go to [Step 1](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/) to install **_Python 3_**.
+   It means you don't have **_Python 3_** installed on your computer.<br/>
+   Go to [Step 1](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/) to install **_Python 3_**.
 <hr>
 
 And then, we can start to download the libraries.<br/>
@@ -58,9 +58,9 @@ We'll use a program **_PIP3_** to install libraries.
 
 1. Install **_Pandas_**. Type in the following command in terminal<br/>
 
-   `pip3 install pandas`<br/>
+`pip3 install pandas`<br/>
 
-   ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
+![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
 
 2. Install **_xlrd_**.<br/>
 
