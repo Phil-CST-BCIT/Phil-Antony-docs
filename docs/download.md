@@ -32,11 +32,11 @@ First of all, we need to use a tool called **_Terminal_**
 
 Now, let's check if you have installed **_Python3_** on you computer<br/>
 
-   1. Change directory to your **_working directory_**<br/>
+1. Change directory to your **_working directory_**<br/>
 
    `cd /absolute_path_to/your_working_directory/`
 
-   2. Type the following command in your terminal<br/>
+2. Type the following command in your terminal<br/>
 
    `which python3`
 
@@ -54,24 +54,20 @@ Now, let's check if you have installed **_Python3_** on you computer<br/>
 
 And then, we can start to download the libraries.<br/>
 
-   1. We'll use a program **_PIP3_** to install libraries.
+We'll use a program **_PIP3_** to install libraries.
 
-   2. Install **_Pandas_**. Type in the following command in terminal<br/>
+1. Install **_Pandas_**. Type in the following command in terminal<br/>
 
    `pip3 install pandas`<br/>
 
-![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
+   ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
 
-   - When you see the message above in the terminal, you have Pandas installed.
-   - There is chance the installation might fail, please check [Troubleshooting](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/troubleshooting/) for solutions.
+2. Install **_xlrd_**.<br/>
 
-   3. Install **_xlrd_**.<br/>
+`pip3 install xlrd`<br/>
 
-   `pip3 install xlrd`
+3. Install **_openpyxl_**<br/>
 
-   4. Install **_openpyxl_**<br/>
-
-   `pip3 install openpyxl`
-
+`pip3 install openpyxl`
 
 Next, let's write our first Python code. [Jump to Write Code](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/write_code/)
