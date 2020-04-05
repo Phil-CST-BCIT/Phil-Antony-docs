@@ -4,10 +4,10 @@ title: Write Code
 nav_order: 5
 ---
 
-## Task 3 - Writing a basic Python code
+# Writing a basic Python code
 
 <hr>
-## Task 3.1 - Testing Pycharm and Python3
+## Testing Pycharm and Python3
 We need to write a simple code to check if Python3 works.
 
 1) Open Pycharm
@@ -28,7 +28,7 @@ output: `hello world`.
 
 Now, we are good to go!
 <hr>
-## Task 3.2 - Writing code  
+## Writing code  
 All you need to do is writing the code we have prepared for you.
 
 1) Go to WorkWithExcel.py.  
