@@ -19,7 +19,7 @@ We need to write a simple code to check if Python3 works.
 print("hello world")
 ```
 4. Press run. The output should be <br/>
-![testing](![Open](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/open-pycharm.png?raw=true "Open")?raw=true "testing")
+![testing](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/testhelloworld.png?raw=true "testing")
 
 
 output: `hello world`.
