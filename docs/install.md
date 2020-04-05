@@ -7,8 +7,8 @@ nav_order: 2
 # Instructions
 To use Python to work with Excel, this guide is consisted of 3 tasks:
 * Installing Python 3.8.2 and Pycharm
-* Task 2
-* Task 3
+* Writing a basic Python code
+* Running code that you have written and fixing some possible bugs
 
 ## Task 1 - Installing Python 3.8.2 and Pycharm
 Python will be doing most our work. We are going to download Python 3.8.2 and Pycharm.
