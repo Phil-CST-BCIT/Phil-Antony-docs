@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 ---
 
-## Task 2 - Opening Pycharm and Setting up Python Code
+## Task 2 - Opening Pycharm 
 
 We will be using Pycharm to write a short python code to work with Excel.
 
