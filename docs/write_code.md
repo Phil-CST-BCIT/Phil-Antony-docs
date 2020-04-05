@@ -31,6 +31,7 @@ Now, we are good to go!
 ## Task 3.2 - Writing code  
 All you need to do is writing the code we have prepared for you.
 
-1) Go to WorkWithExcel.py.
+1) Go to WorkWithExcel.py.  
+
 2) Write the following code
 ![writing](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/write-python-code.png?raw=true "writing")
