@@ -37,13 +37,13 @@ Let's suppose you are going to select columns *OrderDate*, *Region*, *Item*, *Un
 
 ### Basic Data Types
 
-Excel works with data, and the data could be numbers such as 1, 2, 3, or a word like hello. The numbers 1, 2, 3 in programming are named integers. They refer to Data Type int. The word "hello" refers to Data Type String.
-You can't add a number with a string.
+Excel works with data, and the data could be numbers such as 1, 2, 3, or a word like hello. The numbers 1, 2, 3 in Python are called **_Numeric Type_**.The word "hello" refers to Data Type **_String_**.
+You can't add a **_Numeric Type_** with a **_String_**.
 <hr>
 
 ### OS & Software
 
-- Windows
+- Mac OSCatalina 10.15
 
 - Excel 2016.35
 

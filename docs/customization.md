@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Write Code
-nav_order: 6
+title: 404
+nav_order: 10000
 nav_exclude: true
 ---
 

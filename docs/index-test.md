@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Troubleshooting
-nav_order: 99
+title: 404
+nav_order: 10002
 nav_exclude: true
 ---
 

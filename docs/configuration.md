@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 404
-nav_order: 2
+nav_order: 10001
 nav_exclude: true
 ---
 

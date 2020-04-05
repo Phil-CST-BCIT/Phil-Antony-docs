@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Glossary
-nav_order: 98
+title: 404
+nav_order: 10004
 nav_exclude: true
 ---
