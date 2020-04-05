@@ -6,6 +6,11 @@ nav_order: 9
 
 # Troubleshooting
 <hr>
+| Problem       | Action           | 
+| ------------- |:-------------:|
+| Terminal commands      | `abc` | 
+| Key terms      | **_italic_**      |   
+| Excel Cells | *Value*                  | 
 
 1. I have an old version Python, how do I upgrade to Python3?
 
