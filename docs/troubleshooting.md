@@ -13,3 +13,4 @@ nav_order: 9
 | How do I go to Terminal on Windows?                       |Press Windows+R to open “Run” box. Type “cmd” and then click “OK”.      |
 | Working Excel files and Python program are not in the same folder | Move the Python program under the folder containing your Excel files. |
 |
+| Why does the result not display in the console after I click run?  |Remember to put "print".   |
