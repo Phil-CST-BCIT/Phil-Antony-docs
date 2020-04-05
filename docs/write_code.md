@@ -16,8 +16,16 @@ We need to write a simple code to check if Python3 works.
 
 3. Write the followin code.
 
+4. Save the file, and Press run. The output should be <br/>
+
 ```python
 print("hello world")
 ```
 
-4. Save the file, and Press run. The output should be <br/> `hello world`.
+output: `hello world`.
+
+<hr>
+
+Now, we are good to go!
+
+1. Go to the directory where you want to keep your file.

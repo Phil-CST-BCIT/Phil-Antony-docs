@@ -32,11 +32,11 @@ First of all, we need to use a tool called **_Terminal_**
 
 Now, let's check if you have installed **_Python3_** on you computer<br/>
 
-1. Change directory to your **_working directory_**<br/>
+- Change directory to your **_working directory_**<br/>
 
 `cd /absolute_path_to/your_working_directory/`
 
-2. Type the following command in your terminal<br/>
+- Type the following command in your terminal<br/>
 
 `which python3`
 
@@ -56,17 +56,17 @@ And then, we can start to download the libraries.<br/>
 
 We'll use a program **_PIP3_** to install libraries.
 
-1. Install **_Pandas_**. Type in the following command in terminal<br/>
+- Install **_Pandas_**. Type in the following command in terminal<br/>
 
 `pip3 install pandas`<br/>
 
 ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
 
-2. Install **_xlrd_**.<br/>
+- Install **_xlrd_**.<br/>
 
 `pip3 install xlrd`<br/>
 
-3. Install **_openpyxl_**<br/>
+- Install **_openpyxl_**<br/>
 
 `pip3 install openpyxl`
 
