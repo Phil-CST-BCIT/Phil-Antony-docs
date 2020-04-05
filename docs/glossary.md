@@ -6,7 +6,7 @@ nav_order: 8
 # Glossary
 <hr>
 
-**__Data frame__**:
+**__Data frame__**: A pandas data structure. In simple words it is an Excel table or Excel file.
 
 **_Openpyxl_**: A software reading and writing your Excel documents.
 

@@ -84,18 +84,17 @@ All you need to do is writing the code we have prepared for you.
 
 The entire code
 
-    ```python
-    import pandas as pd
-
-    df = pd.read_excel('test.xlsx')
-    df['new_c1'] = df['Units']
-    df['new_c2'] = df['UnitCost']
-    df['new_c3'] = df['Total']
-    writer = pd.ExcelWriter('new_table.xlsx')
-    df.to_excel(writer, 'new_sheet')
-    print(df.head())
-    writer.save()
-    ```
+```python
+import pandas as pd
+df = pd.read_excel('test.xlsx')
+df['new_c1'] = df['Units']
+df['new_c2'] = df['UnitCost']
+df['new_c3'] = df['Total']
+writer = pd.ExcelWriter('new_table.xlsx')
+df.to_excel(writer, 'new_sheet')
+print(df.head())
+writer.save()
+```
 
 Now you have the new table, you can just hide all the unneccssary columns and send your boss the new file.
 Job done!
