@@ -20,6 +20,6 @@ nav_order: 8
 
 **String**: A sequence of characters. A String can be all digits such as "123", but it is not a "number".
 
-**Terminal**:
+**Terminal**: A tool performing computer tasks within a single tab(by coding). 
 
-**Working Directory**:
+**Working Directory**: The directory where you wish to perform tasks.
