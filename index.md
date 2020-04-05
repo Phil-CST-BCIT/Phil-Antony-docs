@@ -32,7 +32,7 @@ One of your daily tasks is to write a summary to your boss. However, the Excel s
 <hr>
 <a href="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/sample_table.png" target="_blank"><img src="./assets/images/sample_table.png" alt="sample_table" width = "100%" height="100%"></a>
 
-Let's suppose you are going to select columns *OrderDate*, *Region*, *Item*, *Units*, *UnitCosts*, and *Total* from the original sheet. You will need to make new Excel files sorted by the *Region* column.
+Let's suppose you are going to select columns *Units*, *UnitCosts*, and *Total* from the original sheet and generate a new Excel file, and you'll send that file to your boss.
 <hr>
 
 ### Basic Data Types
@@ -64,11 +64,10 @@ It might takes two hours for people with little programming experiences to fully
 <hr>
 
 ### Steps
-1. [Install Python and Pycharm]()
-2. [Configure Pycharm]()
-3. [Download Libraries]()
-4. [Write Code]()
-5. [Run Code]()
+1. [Install Python and Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install/)
+2. [Configure Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/configure/)
+3. [Download Libraries](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/download/)
+4. [Write Code](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/write_code/)
 <hr>
 
 ### Typographical Conventions
