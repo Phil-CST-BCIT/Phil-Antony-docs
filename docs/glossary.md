@@ -10,11 +10,11 @@ nav_order: 8
 
 **_Python3_**:
 
-**_PIP_**:
+**_PIP_**: A tool to manage and download Python software package.
 
-**_Pandas_**
+**_Pandas_**: A software reading your Excel Documents.
 
-**_Xlrd_**
+**_Xlrd_**: A software accessing and modifying your Excel Documents. Your Excel documents must have ".xls" or ".xlsx"
 
 **Numeric Type**: Numbers, such as 10, 12.1, -2.
 
