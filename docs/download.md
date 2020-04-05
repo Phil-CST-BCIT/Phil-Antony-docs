@@ -16,8 +16,10 @@ We need to download three libraries for our project, and they are
 - [openpyxl](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/glossary/)
 <hr>
 
-![](./assets/images/note.png)
 First of all, check if you have installed **_Python 3_**
+
+![](./assets/images/note.png)
+
 1. Open a terminal
     1. Click launchpad
     2. Click Other
@@ -40,11 +42,9 @@ First of all, check if you have installed **_Python 3_**
 
 5. Install Pandas. Type in the following command in terminal
 `pip3 install pandas`
-
 ![](./assets/images/install_pandas.png)
 
-    When you see the message above in the terminal, you have Pandas installed.
-    There is chance the installation might fail, please check [Troubleshooting](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/troubleshooting/) for solutions.
+When you see the message above in the terminal, you have Pandas installed.There is chance the installation might fail, please check [Troubleshooting](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/troubleshooting/) for solutions.
 
 6. Install xlrd.
 `pip3 install xlrd`
