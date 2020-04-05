@@ -4,7 +4,7 @@ title: Write Code
 nav_order: 5
 ---
 
-# Writing a basic Python code
+# Writing code
 
 <hr>
 ## Testing Pycharm and Python3
@@ -30,7 +30,7 @@ output: `hello world`.
 Now, we are good to go!
 <hr>
 
-## Writing code
+##
 All you need to do is writing the code we have prepared for you.
 
 1. Go to your **_working directory_**.
@@ -51,17 +51,33 @@ All you need to do is writing the code we have prepared for you.
     # .read_excel() is a program in the libraries you have installed.
     # this line of code read all data in Excel file test, and store the data in df
     df = pd.read_excel('test.xlsx')
+    print(df.head())
     ```
+    ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/origin_table.png?raw=true)
+
 5. Create a new column in the file test.xlsx.
 
     ```python
-    # a new column Test Value is added into test.xlsx file
-    df['Test Value'] = df['Units'] * df['UnitCost']
+    # a new column Test Value append at the end of the table.
+    df['new_column'] = df['the_column_you_are_interested']
     ```
 6. print out the new table.
 
     ```python
-    # prints out the new table, and you can see the column Test Value now is added at the end.
+    # prints out the new table and check if everything ok
     print(df.head())
     ```
-![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/install_pandas.png?raw=true)
+    ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/new_table.png?raw=true)
+
+7. create a copy of the original table and save it.
+
+    ```python
+    # give your new Excel file a name, here it is new_table.xlsx
+    writer = pd.ExcelWriter('new_table.xlsx')
+    # give the new sheet a name
+    df.to_excel(writer, 'new_sheet')
+    # don't forget to save your file
+    writer.save()
+    ```
+
+    ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/file_created.png?raw=true)
