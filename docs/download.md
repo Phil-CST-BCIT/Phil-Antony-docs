@@ -5,11 +5,7 @@ nav_order: 4
 has_toc: true
 ---
 
-<<<<<<< HEAD
-### Downloading Libaries
-=======
 # Downloading Libaries
->>>>>>> d74434600f154dce0a7fab241202bd02e9cba053
 
 <hr>
 A Python library is a set of programs written by experienced programmers. The library provides some predefined functionalities and lets you focus on your task without thinking of how to write code to build those functionalities. In other words, a library is some code you can instantly use in your program.

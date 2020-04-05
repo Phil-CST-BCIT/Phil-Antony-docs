@@ -28,6 +28,7 @@ output: `hello world`.
 
 Now, we are good to go!
 <hr>
+
 ## Writing code
 All you need to do is writing the code we have prepared for you.
 
