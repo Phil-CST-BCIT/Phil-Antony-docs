@@ -11,11 +11,11 @@ To use Python to work with Excel, this guide is consisted of 4 tasks:
 * Writing a basic Python code
 * Running code that you have written and fixing some possible bugs
 
-## Task 1 - Installing Python 3.8.2 and Pycharm
+## Installing Python 3.8.2 and Pycharm
 Python will be doing most our work. We are going to download Python 3.8.2 and Pycharm.
 <hr>
 
-### Task 1.1 - Downloading Python
+### Downloading Python
 1) Go to Python download page: [Python](https://www.python.org/downloads/).
 
 This is the page you are at
@@ -47,7 +47,7 @@ When it finishes, we should encounter this
 6) Click "Close".
 <hr>
 
-### Task 1.2 - Downloading Pycharm
+### Downloading Pycharm
 1) Go to Pycharm download page: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows).
 
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/download-pycharm.png" alt="Download Pycharm" width="130%" height="130%">
