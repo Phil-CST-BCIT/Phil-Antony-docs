@@ -10,15 +10,15 @@ nav_order: 5
 ## Task 3.1 - Testing Pycharm and Python3
 We need to write a simple code to check if Python3 works.
 
-1. Open Pycharm
+1) Open Pycharm
 
-2. Create a new file, give it any name you like
+2) Create a new file, give it any name you like
 
-3. Write the following code:   
+3) Write the following code:   
 ```python
 print("hello world")
 ```
-4. Press run. The output should be <br/>
+4) Press run. The output should be <br/>
 ![testing](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/testhelloworld.png?raw=true "testing")
 
 
@@ -31,4 +31,6 @@ Now, we are good to go!
 ## Task 3.2 - Writing code  
 All you need to do is writing the code we have prepared for you.
 
-1. Go to the directory where you want to keep your file.
+1) Go to WorkWithExcel.py.
+2) Write the following code
+![writing](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/write-python-code.png?raw=true "writing")
