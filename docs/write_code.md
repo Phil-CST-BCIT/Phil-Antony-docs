@@ -95,6 +95,8 @@ df.to_excel(writer, 'new_sheet')
 print(df.head())
 writer.save()
 ```
+<hr>
+Conclusion
 
-Now you have the new table, you can just hide all the unneccssary columns and send your boss the new file.
+You have finished the entire instruction for automating Python to automate Excel files. Now you have the new table, you can just hide all the unneccssary columns and send your boss the new file.
 Job done!
