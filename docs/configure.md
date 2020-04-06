@@ -40,3 +40,7 @@ You will be directed to Pycharm.
 Now you are ready to write the code.
 
 ![Blank](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/blank.png?raw=true "Blank")
+<hr>
+Conclusion
+
+This task is setting up the software. People who are first-time users should pay close attention because Pycharm is a complicated software. Once you have finished this task, you are 60% done.
