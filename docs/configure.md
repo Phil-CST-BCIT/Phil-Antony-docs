@@ -7,13 +7,13 @@ has_children: false
 
 # Opening Pycharm
 
-We will be using Pycharm to write a short python code to work with Excel.
+We will be using Pycharm to write a short Python code to work with Excel.
 
-1) Open Pycharm
+1) Open Pycharm.
 
 ![Open](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/open-pycharm.png?raw=true "Open")
 
-2) Click "Create New Project"
+2) Click "Create New Project".
 
 3) Select "Pure Python" in the outer-left column, browse the location to put this file, and name this file "WorkWithExcel", then click "Create".
 
