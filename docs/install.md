@@ -76,3 +76,7 @@ We will wait for it to download.
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/install-it.png" alt="Install" width="130%" height="130%">
 
 8) Click "Finish".
+<hr>
+Conclusion
+
+Installing Python and Pycharm is the primary step of the whole instruction. Once you have downloaded them, you are halfway done.
