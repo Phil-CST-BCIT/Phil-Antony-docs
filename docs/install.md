@@ -22,25 +22,25 @@ This is the page you are at
 
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/python-download-page.png" alt="python-download-page" width="130%" height="130%">
 
-2) Click "Download Python 3.8.2
+2) Click "Download Python 3.8.2".
 
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/download-button.png" alt="Download Button" width="130%" height="130%">
 
-3) Click on just downloaded folder "python-3.8.2.exe" at the bottom left corner of the screen
+3) Click on just downloaded folder "python-3.8.2.exe" at the bottom left corner of the screen.
 
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/folder.png" alt="Folder" width="130%" height="130%">
 
-4) Tick on "Add Python 3.8 to PATH"
+4) Tick on "Add Python 3.8 to PATH".
 
-5) Click "Install now"
+5) Click "Install now".
 
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/install.png" alt="Install" width="130%" height="130%">
 
-Now we are waiting for it to download
+Now we are waiting for it to download.
 
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/set-up-progress.png" alt="Progress" width="130%" height="130%">
 
-When it finishes, we should encounter this
+When it finishes, we should encounter this:
 
 <img src="https://raw.githubusercontent.com/Phil-CST-BCIT/Phil-Antony-docs/gh-pages/assets/images/done.png" alt="Done" width="130%" height="130%">
 
