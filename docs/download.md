@@ -16,27 +16,27 @@ We need to download three libraries for our project, and they are
 - [openpyxl](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/glossary/)
 <hr>
 
-First of all, we need to use a tool called **_Terminal_**
+First of all, we need to use a tool called **_Terminal_**.
 
 ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/note.png?raw=true "note")
 
 - Open Terminal
-   1. Click launchpad
+   1. Click launchpad.
 
-   2. Click Other
+   2. Click Other.
    ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/launchpad.png?raw=true "launchpad")
 
-   3. Click Terminal
+   3. Click Terminal.
    ![](https://github.com/Phil-CST-BCIT/Phil-Antony-docs/blob/gh-pages/assets/images/terminal.png?raw=true "launchpad")
 <hr>
 
-Now, let's check if you have installed **_Python3_** on you computer<br/>
+Now, let's check if you have installed **_Python3_** :on you computer<br/>
 
-- Change directory to your **_working directory_**<br/>
+- Change directory to your **_working directory_**.<br/>
 
 `cd /absolute_path_to/your_working_directory/`
 
-- Type the following command in your terminal<br/>
+- Type the following command in your terminal.<br/>
 
 `which python3`
 
@@ -66,7 +66,7 @@ We'll use a program **_PIP3_** to install libraries.
 
 `pip3 install xlrd`<br/>
 
-- Install **_openpyxl_**<br/>
+- Install **_openpyxl_**.<br/>
 
 `pip3 install openpyxl`
 
