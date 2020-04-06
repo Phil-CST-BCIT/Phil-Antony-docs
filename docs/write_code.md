@@ -10,9 +10,9 @@ nav_order: 5
 ## Testing Pycharm and Python3
 We need to write a simple code to check if Python3 works.
 
-1. Open Pycharm
+1. Open Pycharm.
 
-2. Create a new file, give it any name you like
+2. Create a new file, give it any name you like.
 
 3. Write the followin code.
 
@@ -35,9 +35,9 @@ All you need to do is writing the code we have prepared for you.
 
 1. Go to your **_working directory_**.
 
-2. Create a new file, give it a descriptive name for your task
+2. Create a new file, give it a descriptive name for your task.
 
-3. import **_pandas_** <br/>
+3. import **_pandas_**.<br/>
 
     ```python
     # import pandas means to include the library as a part of your program.
