@@ -85,7 +85,7 @@ It might takes two hours for people with little programming experiences to fully
 
 ### Conclusion
 
-The powerful Python libraries enable the programming language to become the most suitable tool for simple office work automation. Once you grasp the basic idea of programming in Python, you will notice how amazing to let your computer working for you.
+The powerful Python libraries enable the programming language to become the most suitable tool for simple office work automation. Once you grasp the basic idea of programming in Python, you will notice how amazing it is to let your computer work for you.
 
 [Install Python and Pycharm](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/install)
 
