@@ -69,5 +69,9 @@ We'll use a program **_PIP3_** to install libraries.
 - Install **_openpyxl_**.<br/>
 
 `pip3 install openpyxl`
+<hr>
+Conclusion
+
+This task may look confusing for first-time users, but stick firmly to the guidelines, and you will be 85% done through this whole instruction.
 
 Next, let's write our first Python code. [Jump to Write Code](https://phil-cst-bcit.github.io/Phil-Antony-docs/docs/write_code/)
